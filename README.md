@@ -2,7 +2,7 @@
 Aplikasi serbaguna berbasis PowerShell untuk mengonversi, menggabungkan, dan memanipulasi file Dokumen (Word, Excel, PPT, PDF), Gambar, serta Media (Audio & Video) secara otomatis dan mudah.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25d6e0db-2f63-4ce4-ac9a-4d6685cae997" />
 
-
+**Downlod versi lengkap via google drive:**  https://drive.google.com/drive/folders/192bPfg_mQY5o06QiuURqlzxwnyQTQGjU?usp=drive_link 
 
 ---
 
