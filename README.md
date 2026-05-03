@@ -49,7 +49,7 @@ Agar tools ini berjalan lancar, pastikan komputer/laptop Anda memiliki:
 ## 📖 Panduan Penggunaan (Langkah demi Langkah)
 
 ### Tahap 1: Mengunduh Tools
-1. Klik tombol hijau **`<> Code`** di atas, lalu pilih **`Download ZIP`**.
+1. Klik tombol hijau **`<> Code`** di atas, lalu pilih **`Download ZIP`**. Atau dapat via google drive: https://drive.google.com/drive/folders/192bPfg_mQY5o06QiuURqlzxwnyQTQGjU?usp=drive_link
 2. Ekstrak (Unzip) file yang sudah didownload ke folder mana saja di komputer Anda (misalnya di Desktop atau Documents).
 
 ### Tahap 2: Menjalankan Aplikasi
